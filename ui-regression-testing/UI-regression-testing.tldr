@@ -94434,6 +94434,29 @@
               ]
             ],
             "isComplete": true
+          },
+          "55bca81e-918d-4dd5-3bd2-6012737da744": {
+            "id": "55bca81e-918d-4dd5-3bd2-6012737da744",
+            "type": "draw",
+            "name": "Draw",
+            "parentId": "526f5471-4960-4130-386f-a04ab2282f30",
+            "childIndex": 440,
+            "point": [
+              8614.99,
+              858.15,
+              0.5,
+              0.5
+            ],
+            "rotation": 0,
+            "style": {
+              "color": "black",
+              "size": "small",
+              "isFilled": false,
+              "dash": "draw",
+              "scale": 1
+            },
+            "points": [],
+            "isComplete": true
           }
         },
         "bindings": {}
@@ -94517,9 +94540,6 @@
         },
         "editingId": null
       }
-    },
-    "pageState": {
-      "boundsRotation": 3.451364784178031
     }
   },
   "assets": {}

@@ -40,13 +40,14 @@ Storyboard? Problemstilling, løsning,
 
 Prosess:
 
-* Tegne problemstillinger, vise, diskutere, tegne igjen
-* 
+* Tegne problemstillinger for å forstå og analysere
+* Tegn problemstillinger for å vise, diskutere, tegne igjen
+* Tegne løsninger for å se hva jeg skal tegne i Figma. Forberedelse til problemløsning
 
 Målbare effekter:
 * Spørre Lovdata om tallene for Mobil
 * Full løsning på mobil, til før hvor det var en begrenset utgave.
-* Ryddet i eksisterende utgave
+* Ryddet i eksisterende utgave --> Mulig å fortsette utvikling
 * Mobil- + Desktop-løsning som begge utnytter styrken til mediet _og_ har veldig mye felles (mindre utviklingskostnader)
 * Liste opp alle enkelt-greiene
   * Merknads og markeringsverktøy med sammarbeidsmulighet
@@ -58,5 +59,29 @@ Målbare effekter:
 * Brukerintervjuer
 * Brukertesting (diverse)
 * Analyse av brukerinnsikt -> brukerhistorier
+
+
+## Samiske stoppord
+
+Fortell om prosjektet
+Presentasjon på NDC Oslo - https://youtu.be/qsakF8zFJjA?si=R-tKoNZ5dWN4cJfs
+Tegninger - 
+Presentasjon - 
+
+
+## Tegneworkshop - Tegne for å kommunisere
+
+Workshop på IF
+
+
+## Tegnebrett A4
+
+* Modulært
+* Bedre enn reMarkable
+
+
+## Online tegneworkshop
+
+* Lære en million personer å tegne
 
 

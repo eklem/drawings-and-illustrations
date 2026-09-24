@@ -5472,9 +5472,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1105.1573606516645,
-			"y": 2651.180190185189,
-			"z": 0.18238870270236515,
+			"x": 5671.747274099552,
+			"y": 4172.784935870886,
+			"z": 0.06669856908818826,
 			"meta": {},
 			"id": "camera:page:pPPrkIwaDzeu0naQDq4vd",
 			"typeName": "camera"
@@ -18587,9 +18587,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -8835.516105150855,
-			"y": -8414.279064809702,
-			"z": 0.46140790484832456,
+			"x": -12426.845506785432,
+			"y": -215.7519654548433,
+			"z": 0.9229000107695594,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -40551,61 +40551,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:uNbSHtZISGc3Td5O4mVcX",
-				"shape:MryCrrjcdUIAZL1eLOft4",
-				"shape:gzD19jVl6Dc2voDI0jb_T",
-				"shape:M5TN_1VU5l76OvNI-c_x4",
-				"shape:vXvHgkjb-DrRK6j7tpXuq",
-				"shape:Exwj9H-6VZeuywKxHRBUx",
-				"shape:GPeebNjFna7N5fcjECe2Q",
-				"shape:dYVjsXHHSWs4kWjTr0NiZ",
-				"shape:LsgH99rtk2VpwQoNSzVFp",
-				"shape:SgnYv5TZOiIclrVYaMRAp",
-				"shape:ZuZyS9bmeSISoYCHzcZGG",
-				"shape:fQi4xxNbUBtynEKrijid9",
-				"shape:Ncb0eZBFB8DyaB5V4k44Z",
-				"shape:8AWUTAxAjaUaJFxSPq_yJ",
-				"shape:w9_Qr_ghMOnJLzhkEFWcd",
-				"shape:H5ztVUoBy4TGHm-bx4lcK",
-				"shape:e975Itgfd5mVelcsoB7cH",
-				"shape:505lEL1C5Oq-ko-cs0Vb1",
-				"shape:t9ItUXmwNh-vU5Btn7Tw4",
-				"shape:-HKunAwhaI6Lg_y6I52gI",
-				"shape:qAcAARC2_jsbw-Ig2-0yZ",
-				"shape:TiEbvV7Pkh9emB48WkE0z",
-				"shape:P4hP8P5oOU9dn89l8RIl2",
-				"shape:YI7DXVjFRZ-Xz6l4vqL76",
-				"shape:BT9aOIkwpkCV6chowphqT",
-				"shape:WiYL2qa3uXb817OWB9LEH",
-				"shape:XISc1PFrsZlrlkSSaRpGP",
-				"shape:6gzA_jtJ1TWT3G99Nnvul",
-				"shape:6vcoKVk6xDCEYEQvtpgk9",
-				"shape:Uom-Pub6gdnKbH7R65VUE",
-				"shape:-9gcF7PQjhAsvX9IVkpZU",
-				"shape:F63Q1DVVLpdXq3J5Rw2Zz",
-				"shape:yVtf1ruZuIXVHI0_9Uezo",
-				"shape:dMeH9fWOjucD5QUx6AVtl",
-				"shape:ZC-Pr3CdozsZI4mf4pViD",
-				"shape:C4aPcDpsIJM88_DlvNkav",
-				"shape:qhv6DKFcWi7tUELY43KT7",
-				"shape:ohodl_CD1NuIHCCgY1cS5",
-				"shape:Wwfye-_enX8n9pCzdExAB",
-				"shape:9MsDfsBeDE3IbRkhtR0hH",
-				"shape:bRBiPKCVTEkDZDBBAOzuJ",
-				"shape:7Lb-yqzeGojKIzkh20-jM",
-				"shape:iFXTu_8cweF9KpDI-0VWz",
-				"shape:U_deoJ0Gldc6s3iQs-BG6",
-				"shape:zZ8z-NfuAD5S5yq6l0P7U",
-				"shape:ySmda2TYiFXRfKFJrMgYq",
-				"shape:4DwZX_ec6_yW-83y2h1RD",
-				"shape:KmSXu-50KdXBjvMzCMzJc",
-				"shape:axwr_AGpe9Cr1WZTNwyiN",
-				"shape:FsSopsAn-hv-g2VdG7qoA",
-				"shape:-Fs8GjJzWLvhtGHNcVICd",
-				"shape:Vh-trz6tflAWA901I973T",
-				"shape:y3ydt7MF35434S6fkSq95"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -48501,9 +48447,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -5325.493216778519,
-			"y": 6322.324275208948,
-			"z": 0.10728161461820676,
+			"x": -364.6465539283636,
+			"y": 15861.380641992848,
+			"z": 0.051000000000000004,
 			"meta": {},
 			"id": "camera:page:btgS6qoc7Dmzv7Zy9LAX5",
 			"typeName": "camera"
@@ -49343,7 +49289,7 @@
 		},
 		{
 			"name": "",
-			"color": "#39B178",
+			"color": "#F04F88",
 			"imageUrl": "",
 			"meta": {},
 			"id": "user:jDTJpESAOOWC2FdkEeGdt",
@@ -57926,9 +57872,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 8099.120933939712,
-			"y": 6940.366854876861,
-			"z": 0.052313204486142593,
+			"x": 1698.715808288316,
+			"y": 1880.823795777339,
+			"z": 0.10762582327671066,
 			"meta": {},
 			"id": "camera:page:BonKAm0j0neUYbb-9l_fs",
 			"typeName": "camera"
@@ -90915,8 +90861,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1548,
-				"h": 1287
+				"w": 3082,
+				"h": 1286
 			},
 			"insets": [
 				false,
@@ -90933,7 +90879,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": null,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -90941,7 +90887,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:pPPrkIwaDzeu0naQDq4vd",
+			"currentPageId": "page:_RCQOY2FR1-Hs5fW82lL7",
 			"typeName": "instance"
 		},
 		{
@@ -93449,9 +93395,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 4998.268216158397,
-			"y": 4579.078371979573,
-			"z": 0.09800745334208422,
+			"x": 3414.132689344885,
+			"y": 2547.210114571797,
+			"z": 0.24182587680806897,
 			"meta": {},
 			"id": "camera:page:_RCQOY2FR1-Hs5fW82lL7",
 			"typeName": "camera"

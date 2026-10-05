@@ -49289,7 +49289,7 @@
 		},
 		{
 			"name": "",
-			"color": "#F04F88",
+			"color": "#9D5BD2",
 			"imageUrl": "",
 			"meta": {},
 			"id": "user:jDTJpESAOOWC2FdkEeGdt",
@@ -73796,16 +73796,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:vKIfx7LWKjneeiDkIVasx",
-				"shape:efYL_LnVbazzEjElasivw",
-				"shape:-hMGYYzNbToQYLJlL3LLI",
-				"shape:-aIHGIMl-6N6ypmuL3xeQ",
-				"shape:SVdDNAU7XC76-lthw-XLT",
-				"shape:Gr-ExZiEPF6UAh25KtQBH",
-				"shape:2BJXaKAXaMnp4FZWDsyy9",
-				"shape:fYXmQ4Iy789Df4D4_fQ5A"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -90861,8 +90852,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 3082,
-				"h": 1286
+				"w": 1154,
+				"h": 825
 			},
 			"insets": [
 				false,
@@ -90877,15 +90868,15 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": null,
+			"isHoveringCanvas": true,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
-			"cameraState": "idle",
+			"cameraState": "moving",
 			"id": "instance:instance",
 			"currentPageId": "page:_RCQOY2FR1-Hs5fW82lL7",
 			"typeName": "instance"
@@ -93395,9 +93386,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 3414.132689344885,
-			"y": 2547.210114571797,
-			"z": 0.24182587680806897,
+			"x": 3244.7262464150617,
+			"y": 4882.775697489302,
+			"z": 0.08399233229691225,
 			"meta": {},
 			"id": "camera:page:_RCQOY2FR1-Hs5fW82lL7",
 			"typeName": "camera"

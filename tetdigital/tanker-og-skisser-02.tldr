@@ -51261,7 +51261,8 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:y7KbIXNxrupfC4fYUi0CC"
+				"shape:zBRfnXq0YY3rta7UTSCAX",
+				"shape:cDZ5b7IW6pSnfhZlgggUm"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -76502,9 +76503,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -15643.768492720079,
-			"y": 573.2056838181774,
-			"z": 5.304441706616282,
+			"x": -15471.486391858802,
+			"y": 2011.9317921205002,
+			"z": 0.2550846452170988,
 			"meta": {},
 			"id": "camera:page:K2uazwdhqxDCJCOt3ekMQ",
 			"typeName": "camera"
@@ -134787,7 +134788,12 @@
 				"tldraw:font": "mono",
 				"tldraw:fill": "semi"
 			},
-			"brush": null,
+			"brush": {
+				"x": 16027.4905561992,
+				"y": 1818.0468769934964,
+				"w": 682.3255907930779,
+				"h": 417.53909730377063
+			},
 			"scribbles": [],
 			"cursor": {
 				"type": "default",

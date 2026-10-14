@@ -6621,9 +6621,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -2100.0440438564874,
-			"y": 2409.0442627663097,
-			"z": 0.5308827256311827,
+			"x": -423.5319544606131,
+			"y": -334.6999999086579,
+			"z": 0.9014314528082035,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -7647,6 +7647,48 @@
 			},
 			"parentId": "shape:JH95ivS7Lzuxv9c-mITtg",
 			"index": "a37zUV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2169.8137541694337,
+			"y": 1591.7871917266923,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:3K-InXUfXg8JSbDxzc3zb",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 245.8125,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hypoteser (Espen)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7fTd6",
 			"typeName": "shape"
 		},
 		{
@@ -12088,12 +12130,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:HOimjPI1ZoSkYTz200Hn6",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:HOimjPI1ZoSkYTz200Hn6"
+				"shape:8Q97kqYnQ-4FbtSoYqBnH"
 			],
-			"hoveredShapeId": "shape:HOimjPI1ZoSkYTz200Hn6",
+			"hoveredShapeId": "shape:8Q97kqYnQ-4FbtSoYqBnH",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -26048,8 +26090,8 @@
 			"props": {
 				"color": "red",
 				"size": "m",
-				"w": 1204.796875,
-				"font": "draw",
+				"w": 1354.609375,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,
@@ -29752,7 +29794,7 @@
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
 				"tldraw:color": "black",
-				"tldraw:size": "l",
+				"tldraw:size": "xl",
 				"tldraw:font": "mono"
 			},
 			"brush": null,
@@ -29768,8 +29810,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1454,
-				"h": 825
+				"w": 3212,
+				"h": 1286
 			},
 			"insets": [
 				false,
@@ -29784,7 +29826,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 2,
+			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -29887,8 +29929,8 @@
 			"props": {
 				"color": "green",
 				"size": "m",
-				"w": 1014.59375,
-				"font": "draw",
+				"w": 1118.796875,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,
@@ -30401,8 +30443,8 @@
 			"props": {
 				"color": "green",
 				"size": "m",
-				"w": 1216.3359375,
-				"font": "draw",
+				"w": 1383.40625,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,
@@ -32661,8 +32703,8 @@
 			"props": {
 				"color": "green",
 				"size": "m",
-				"w": 753.515625,
-				"font": "draw",
+				"w": 845.203125,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,
@@ -32992,8 +33034,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1414.5491443021792,
-			"y": 875.5361162885911,
+			"x": 1076.0727351426258,
+			"y": 939.6268880494611,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -33003,8 +33045,8 @@
 			"props": {
 				"color": "green",
 				"size": "m",
-				"w": 756.8828125,
-				"font": "draw",
+				"w": 893.8125,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,
@@ -35358,8 +35400,8 @@
 			"props": {
 				"color": "red",
 				"size": "m",
-				"w": 837.59375,
-				"font": "draw",
+				"w": 937,
+				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1,

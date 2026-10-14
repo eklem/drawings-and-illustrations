@@ -1275,6 +1275,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2960.772134196576,
+			"y": -1480.481596745949,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hENhLxCb-JEpCpprR8O7a",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 1793.8046875,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 3,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Gebyr og billettinfo er viktigst, så hittegods og til slutt reiseinfo + annet"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ Få ned frustrasjon og antall som gir opp/velger feil kø på de viktigste oppgavene"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ La de som velger reiseinfo vente litt lengere"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7dH5I",
+			"typeName": "shape"
+		},
+		{
 			"x": 46.15952811358875,
 			"y": 8.815272915544483,
 			"rotation": 0,
@@ -3079,6 +3163,48 @@
 			"parentId": "shape:Z5lAEoVxa5JObir8h1vWm",
 			"index": "a4znN",
 			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 2960.772134196576,
+			"y": -2064.4457327415275,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:b4zMvNfiztQNzP2TyAmms",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 238.6015625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hypoteser"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7aZCA",
 			"typeName": "shape"
 		},
 		{
@@ -6495,9 +6621,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2399.1435658298305,
-			"y": 3374.9674727108672,
-			"z": 0.08051102461930257,
+			"x": -2100.0440438564874,
+			"y": 2409.0442627663097,
+			"z": 0.5308827256311827,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -11962,12 +12088,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:HOimjPI1ZoSkYTz200Hn6",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:zAcswzSalSOjg6t-JYV-f"
+				"shape:HOimjPI1ZoSkYTz200Hn6"
 			],
-			"hoveredShapeId": "shape:n1FguvR04WzwrCn6fRWZ7",
+			"hoveredShapeId": "shape:HOimjPI1ZoSkYTz200Hn6",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -15727,7 +15853,7 @@
 		},
 		{
 			"name": "",
-			"color": "#55B467",
+			"color": "#02B1CC",
 			"imageUrl": "",
 			"meta": {},
 			"id": "user:jDTJpESAOOWC2FdkEeGdt",
@@ -18562,7 +18688,7 @@
 			"props": {
 				"color": "red",
 				"size": "xl",
-				"w": 951.4140625,
+				"w": 766.609375,
 				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
@@ -18581,7 +18707,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "anbefale "
+									"text": "anbefale reisesøk på "
 								},
 								{
 									"type": "text",
@@ -18597,29 +18723,6 @@
 										}
 									],
 									"text": "ruter.no"
-								},
-								{
-									"type": "text",
-									"text": " / "
-								},
-								{
-									"type": "text",
-									"marks": [
-										{
-											"type": "link",
-											"attrs": {
-												"href": "http://reise.ruter.no",
-												"target": "_blank",
-												"rel": "noopener noreferrer nofollow",
-												"class": null
-											}
-										}
-									],
-									"text": "reise.ruter.no"
-								},
-								{
-									"type": "text",
-									"text": " ?"
 								}
 							]
 						}
@@ -25934,6 +26037,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2169.8137541694337,
+			"y": 1474.9790109241646,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:RBbBKuA3FjP7mWctwmvQ3",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 1204.796875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Tegne oppringing som mulig alternativ på alle pausemusikk-køene (KS styrer dette ut fra behov)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7ZQq2",
+			"typeName": "shape"
+		},
+		{
 			"x": 441.4558422593095,
 			"y": 26.748625334550297,
 			"rotation": 0,
@@ -26041,6 +26186,166 @@
 			"parentId": "shape:zAcswzSalSOjg6t-JYV-f",
 			"index": "b1M5pQ",
 			"props": {},
+			"typeName": "shape"
+		},
+		{
+			"x": 2960.772134196576,
+			"y": -1190.6361371727216,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:PS5Ai5RKzBfTfSaICNb8p",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 2074.609375,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 4,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Vi kan nudge billettinfo-innringerne til "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "link",
+															"attrs": {
+																"href": "http://reise.ruter.no",
+																"target": "_blank",
+																"rel": "noopener noreferrer nofollow",
+																"class": null
+															}
+														}
+													],
+													"text": "reise.ruter.no"
+												},
+												{
+													"type": "text",
+													"text": " "
+												},
+												{
+													"type": "text",
+													"marks": [
+														{
+															"type": "italic"
+														}
+													],
+													"text": "og"
+												},
+												{
+													"type": "text",
+													"text": " gi de en bedre opplevelse"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ Opplyse om reisesøk på "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "link",
+											"attrs": {
+												"href": "http://ruter.no",
+												"target": "_blank",
+												"rel": "noopener noreferrer nofollow",
+												"class": null
+											}
+										}
+									],
+									"text": "ruter.no"
+								},
+								{
+									"type": "text",
+									"text": " og si at dette er det kundebehandlerne bruker for å hjelpe deg"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ Sende SMS med reise.ruter.no-linken til de som KS føler at de lykkes med å hjelpe."
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "  Linken "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "italic"
+										}
+									],
+									"text": "må"
+								},
+								{
+									"type": "text",
+									"text": " være åpen (tidspunkt) så den fortsetter å gi verdi."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7eflj",
 			"typeName": "shape"
 		},
 		{
@@ -29446,11 +29751,9 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "xl",
-				"tldraw:dash": "draw",
 				"tldraw:color": "black",
-				"tldraw:font": "mono",
-				"tldraw:fill": "solid"
+				"tldraw:size": "l",
+				"tldraw:font": "mono"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -29459,13 +29762,13 @@
 				"rotation": 0
 			},
 			"isFocusMode": false,
-			"exportBackground": false,
+			"exportBackground": true,
 			"isDebugMode": false,
 			"isToolLocked": false,
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1154,
+				"w": 1454,
 				"h": 825
 			},
 			"insets": [
@@ -29570,6 +29873,84 @@
 			},
 			"parentId": "shape:2-l22wT28B0yXexR4A_h7",
 			"index": "aQXIv",
+			"typeName": "shape"
+		},
+		{
+			"x": 1064.1696122455776,
+			"y": 786.8606114149252,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:aJ_9sv7aFhCwcDMW-Qs_4",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 1014.59375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "bulletList",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Endre meldingen for opptak som gjør at flere godtar? (Oda)"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Kortere meldinger gir også muligens høyere service-grad og færre som gir opp"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7TwLQ",
 			"typeName": "shape"
 		},
 		{
@@ -30006,6 +30387,48 @@
 			},
 			"parentId": "shape:dCOvA7IaBrl4lrWZd-C4V",
 			"index": "aS48X",
+			"typeName": "shape"
+		},
+		{
+			"x": 839.9055641388194,
+			"y": 1381.9528780501587,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:MM5r2RS1WqwFX-ZevxGCV",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 1216.3359375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sjekke med tekniske køer om hvilke som faktisk trengs. Ingen kobling til opplevde køer. (Helena)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7YE22",
 			"typeName": "shape"
 		},
 		{
@@ -32227,6 +32650,156 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2163.2124304973368,
+			"y": 1099.2319401682137,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:QMZwQnlfmomBCAOlJcZrI",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 753.515625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Billettkontroll"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Billettinformasjon"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Hittegods"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Reiseinformasjon (m/ info om reisesøk og SMS i etterkant)"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Andre henvendelser"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "(Espen tegner)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7UqCU",
+			"typeName": "shape"
+		},
+		{
 			"x": 61.69242391276181,
 			"y": 27.23977819810881,
 			"rotation": 0,
@@ -32416,6 +32989,48 @@
 			},
 			"parentId": "shape:tExvrXSfHhN7_BYIcSqgY",
 			"index": "a66pA",
+			"typeName": "shape"
+		},
+		{
+			"x": 1414.5491443021792,
+			"y": 875.5361162885911,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8Q97kqYnQ-4FbtSoYqBnH",
+			"type": "text",
+			"props": {
+				"color": "green",
+				"size": "m",
+				"w": 756.8828125,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Grave i innsikt for når folk gir opp (Advania, Helena sjekker)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7VUuc",
 			"typeName": "shape"
 		},
 		{
@@ -33230,6 +33845,78 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2960.772134196576,
+			"y": -1683.579521131785,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:btY_y6WkDg6gt-Hdy1RkZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 1310.5,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 2,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Spørsmålet om opptak for KI og samtykke er stilt for dårlig"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ For få godtar"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7ceSX",
+			"typeName": "shape"
+		},
+		{
 			"x": 981.6731451192144,
 			"y": 69.43986964880469,
 			"rotation": 0,
@@ -33611,6 +34298,78 @@
 			},
 			"parentId": "shape:88RnCtLHo-LCtKpZE22F3",
 			"index": "a1",
+			"typeName": "shape"
+		},
+		{
+			"x": 2960.772134196576,
+			"y": -1902.9595575991857,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:HOimjPI1ZoSkYTz200Hn6",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "l",
+				"w": 1405,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Spørsmålet om opptak for KI og samtykke tar for lang tid"
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "→ Folk gir opp fortere fordi det tar lang tid å komme til valgene"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7b7T2",
 			"typeName": "shape"
 		},
 		{
@@ -34585,6 +35344,48 @@
 			},
 			"parentId": "shape:YZa_lM7qVcU5sgmQejwiW",
 			"index": "b0qN2j",
+			"typeName": "shape"
+		},
+		{
+			"x": 1031.5270524272082,
+			"y": 1204.6407377442147,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:rqmljgHPqQbQxe-6CmVsg",
+			"type": "text",
+			"props": {
+				"color": "red",
+				"size": "m",
+				"w": 837.59375,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Sjekke når du får beskjed om hvilket nummer du er i køen? (Espen)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b7WvPQ",
 			"typeName": "shape"
 		},
 		{

@@ -35,26 +35,18 @@
 	},
 	"records": [
 		{
-			"x": 0,
-			"y": 0,
-			"lastActivityTimestamp": 0,
-			"meta": {},
-			"id": "pointer:pointer",
-			"typeName": "pointer"
-		},
-		{
-			"x": 1183.0924537179174,
-			"y": -196.05386965668885,
+			"x": 6279.452170814501,
+			"y": -41.37286309031117,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:XS49iZBvIEtD_a3y3SiKT",
+			"id": "shape:zZa0XLRr_Iuf43YArYeQ1",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "xl",
-				"w": 370.609375,
+				"w": 1664.203125,
 				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
@@ -73,7 +65,107 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Mulige årsaker"
+									"text": "Brukerne skjønner ikke årsaken til mye av det de skal fylle ut:"
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Personalia"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Linje, fra, til, klokkeslett for oppgitt avgang"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aOPbz",
+			"typeName": "shape"
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"lastActivityTimestamp": 0,
+			"meta": {},
+			"id": "pointer:pointer",
+			"typeName": "pointer"
+		},
+		{
+			"x": 1010.920027476757,
+			"y": -196.05386965668885,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:XS49iZBvIEtD_a3y3SiKT",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 687.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hypoteser (Mulige årsaker)"
 								}
 							]
 						}
@@ -139,20 +231,99 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 800.7438048119365,
-			"y": 767.7690631321244,
-			"z": 0.4898661524273068,
+			"x": 6112.921404486879,
+			"y": -341.5510679511308,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:hVge_I_P7CYCJDP20wZKN",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAB7NHs07DW4slZIZrZzTBQyRlRmrg==",
+						"dim": 2
+					},
+					{
+						"type": "straight",
+						"path": "AAC/Qo/Cdb6UaACA",
+						"dim": 2
+					}
+				],
+				"color": "black",
+				"fill": "none",
+				"dash": "draw",
+				"size": "xl",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1.6611917849659728,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aMGIX",
+			"typeName": "shape"
+		},
+		{
+			"x": 6141.682198848921,
+			"y": -889.9734341366176,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:UhwmuKKJp-adRwVuC_HQd",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 3116.8025249336465,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 2.184762402065139,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hypoteser, mer løsrevet fra utfordringer vi vet finnes"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aLhKM",
+			"typeName": "shape"
+		},
+		{
+			"x": -7021.309624557007,
+			"y": -306.6761092254727,
+			"z": 0.4789260787126371,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"editingShapeId": "shape:xMAUmzSXXBzsrX0HO-5MH",
+			"editingShapeId": "shape:eovbpghyFEV15HYnKNF4y",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:xMAUmzSXXBzsrX0HO-5MH"
+				"shape:eovbpghyFEV15HYnKNF4y"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:eovbpghyFEV15HYnKNF4y",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -160,6 +331,60 @@
 			"id": "instance_page_state:page:page",
 			"pageId": "page:page",
 			"typeName": "instance_page_state"
+		},
+		{
+			"x": 6279.452170814501,
+			"y": 687.7195693304237,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:_f-12odT9dU1CHY9lOWyn",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 1875.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Språket (når du skal velge skjema) er avsender-styrt og "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "ikke mottager-styrt (hittegods vs \"jeg har glemt igjen noe på bussen\")."
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aQsKA",
+			"typeName": "shape"
 		},
 		{
 			"x": 1845.2557874308643,
@@ -354,6 +579,140 @@
 			"meta": {},
 			"id": "user:jDTJpESAOOWC2FdkEeGdt",
 			"typeName": "user"
+		},
+		{
+			"x": 6279.452170814501,
+			"y": 409.5146193264426,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:4bXF3YKXb2I4DAUnsLV7a",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 1505.8125,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Det er for mye rotete og planløse innganger til skjemaet."
+								}
+							]
+						},
+						{
+							"type": "orderedList",
+							"attrs": {
+								"dir": "auto",
+								"start": 1,
+								"type": null
+							},
+							"content": [
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Uryddig og vanskelig flyt inn til skjemaene"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"attrs": {
+										"dir": "auto"
+									},
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "Lite hensiktsmessig kombinasjon av telefon, FAQ, skjema"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aP06U",
+			"typeName": "shape"
+		},
+		{
+			"x": 6279.452170814501,
+			"y": 987.9384355896749,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eovbpghyFEV15HYnKNF4y",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 1928.203125,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Vognnummer er ikke noe folk faktisk vet noe om. Men trengs for operatører"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aRoy2",
+			"typeName": "shape"
 		},
 		{
 			"x": 178.17322988855653,
@@ -604,6 +963,48 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 1906.612436984972,
+			"y": 2094.3566839760406,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:zdPMQb9dfji_dRNCcVXHn",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 2060.203125,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Lage en hittegods-flyt/lynavleder som henviser til hvor de skal møte opp/ringe"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aKdVj",
+			"typeName": "shape"
+		},
+		{
 			"x": 155.63160444915798,
 			"y": -108.48634550764268,
 			"rotation": 0,
@@ -636,7 +1037,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 2238.0122034214,
+			"x": 1976.8726235222593,
 			"y": -196.05386965668885,
 			"rotation": 0,
 			"isLocked": false,
@@ -689,7 +1090,7 @@
 			"props": {
 				"color": "black",
 				"size": "xl",
-				"w": 238.609375,
+				"w": 2309.293858982852,
 				"font": "mono",
 				"textAlign": "start",
 				"autoSize": true,
@@ -708,7 +1109,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Hypoteser"
+									"text": "Hypoteser, basert på reelle utfordringer"
 								}
 							]
 						}
@@ -817,6 +1218,60 @@
 			},
 			"parentId": "page:page",
 			"index": "aDO4z",
+			"typeName": "shape"
+		},
+		{
+			"x": 178.17322988855653,
+			"y": 2094.3566839760406,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:TLSEf1Bf_ZDSDeCtYvJbZ",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 581.8125,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Hittegods innsendt via"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "skjema"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aIATz",
 			"typeName": "shape"
 		},
 		{
@@ -965,8 +1420,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 3082,
-				"h": 1286
+				"w": 514,
+				"h": 825
 			},
 			"insets": [
 				false,
@@ -981,7 +1436,7 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1,
+			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
 			"isHoveringCanvas": true,
 			"openMenus": [],
@@ -993,6 +1448,48 @@
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
+		},
+		{
+			"x": 6279.452170814501,
+			"y": -303.74133513015374,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nrbqGbCFYI2vDsM-qTxrf",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 951.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Det er for mye å fylle ut i skjemaet"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aNTIj",
+			"typeName": "shape"
 		},
 		{
 			"x": 951.8080214171924,
@@ -1234,6 +1731,60 @@
 			},
 			"parentId": "page:page",
 			"index": "aADor",
+			"typeName": "shape"
+		},
+		{
+			"x": 927.3881874922315,
+			"y": 2094.3566839760406,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ZSuVqoRt5_V-ByfCi7HGr",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 819.40625,
+				"font": "mono",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Prøver \"noe\" når de ikke finner"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "hvor de skal for å sende inn"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aJM5v",
 			"typeName": "shape"
 		}
 	]
